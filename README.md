@@ -2,6 +2,7 @@ Editor Web de JavaScript
 Um ambiente web completo para edição, execução, salvamento e compartilhamento de códigos JavaScript, com autenticação de usuários e persistência em banco de dados.
 
 ⚡ Funcionalidades
+
 Editor de código JavaScript com destaque de sintaxe, execução segura e histórico de alterações (undo/redo)
 
 Autenticação de usuários (cadastro, login, logout) com JWT
@@ -19,6 +20,7 @@ API RESTful protegida por autenticação
 Proteção de dados e segurança: senhas criptografadas, validação, rate limiting, CORS, Helmet e HTTPS
 
 🚀 Como executar o projeto
+
 Pré-requisitos
 Node.js 18+
 
@@ -39,7 +41,9 @@ Helmet para cabeçalhos de segurança HTTP
 HTTPS (SSL) para criptografia de dados em trânsito
 
 🤝 Contribuição
+
 Pull requests são bem-vindos! Para grandes mudanças, abra uma issue antes para discussão.
 
 📄 Licença
+
 Este projeto está sob a licença MIT.
