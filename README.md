@@ -1,4 +1,5 @@
 Editor Web de JavaScript
+
 Um ambiente web completo para edição, execução, salvamento e compartilhamento de códigos JavaScript, com autenticação de usuários e persistência em banco de dados.
 
 ⚡ Funcionalidades
